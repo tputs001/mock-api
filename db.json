@@ -1,89 +1,74 @@
 {
   "products": [
     {
-      "id": 143881,
+      "id": 1,
       "name": "Seeds of Change, Organic Jasmine Rice, 8.5 oz (240 g)",
-      "partNumber": "SOC42055",
-      "formattedPartNumber": null,
       "url": "https://www.iherb.com/pr/seeds-of-change-organic-jasmine-rice-8-5-oz-240-g/143881",
       "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/soc/SOC42055/r/3.jpg",
-      "brandCode": "SOC",
-      "brandName": "Seeds of Change",
-      "primaryImageIndex": 3,
-      "rating": 0,
-      "ratingCount": 0,
-      "ratingUrl": "https://www.iherb.com/pr/seeds-of-change-organic-jasmine-rice-8-5-oz-240-g/143881#product-reviews",
-      "reviewUrl": "https://www.iherb.com/r/seeds-of-change-organic-jasmine-rice-8-5-oz-240-g/143881",
-      "listPrice": "$4.51",
-      "discountedPrice": "$4.06"
+      "listPrice": "$4.51"
     },
     {
-      "id": 143561,
+      "id": 2,
       "name": "Nature's Craft, Liver Support with Milk Thistle, 60 Capsules",
-      "partNumber": "NCA93260",
-      "formattedPartNumber": null,
       "url": "https://www.iherb.com/pr/nature-s-craft-liver-support-with-milk-thistle-60-capsules/143561",
       "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/NCA93260/r/8.jpg",
-      "brandCode": "NCA",
-      "brandName": "Nature's Craft",
-      "primaryImageIndex": 8,
-      "rating": 0,
-      "ratingCount": 0,
-      "ratingUrl": "https://www.iherb.com/pr/nature-s-craft-liver-support-with-milk-thistle-60-capsules/143561#product-reviews",
-      "reviewUrl": "https://www.iherb.com/r/nature-s-craft-liver-support-with-milk-thistle-60-capsules/143561",
-      "listPrice": "$22.77",
-      "discountedPrice": "$22.77"
+      "listPrice": "$22.77"
     },
     {
-      "id": 143848,
+      "id": 3,
       "name": "Cetaphil, Gentle Exfoliating SA Lotion, 8 fl oz (237 ml)",
-      "partNumber": "CET53015",
-      "formattedPartNumber": null,
       "url": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-lotion-8-fl-oz-237-ml/143848",
       "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/CET53015/r/8.jpg",
-      "brandCode": "CET",
-      "brandName": "Cetaphil",
-      "primaryImageIndex": 8,
-      "rating": 0,
-      "ratingCount": 0,
-      "ratingUrl": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-lotion-8-fl-oz-237-ml/143848#product-reviews",
-      "reviewUrl": "https://www.iherb.com/r/cetaphil-gentle-exfoliating-sa-lotion-8-fl-oz-237-ml/143848",
-      "listPrice": "$12.25",
-      "discountedPrice": "$11.02"
+      "listPrice": "$12.25"
     },
     {
-      "id": 143849,
+      "id": 4,
       "name": "Cetaphil, Gentle Exfoliating SA Cleanser, 8 fl oz (237 ml)",
-      "partNumber": "CET53016",
-      "formattedPartNumber": null,
       "url": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-cleanser-8-fl-oz-237-ml/143849",
       "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/CET53016/r/8.jpg",
-      "brandCode": "CET",
-      "brandName": "Cetaphil",
-      "primaryImageIndex": 8,
-      "rating": 0,
-      "ratingCount": 0,
-      "ratingUrl": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-cleanser-8-fl-oz-237-ml/143849#product-reviews",
-      "reviewUrl": "https://www.iherb.com/r/cetaphil-gentle-exfoliating-sa-cleanser-8-fl-oz-237-ml/143849",
-      "listPrice": "$11.12",
-      "discountedPrice": "$10.01"
+      "listPrice": "$11.12"
     },
     {
-      "id": 143441,
+      "id": 5,
       "name": "Purito, Timeless Bloom Retinol Spot Cream, 1.01 fl oz (30 ml)",
-      "partNumber": "PIT10306",
-      "formattedPartNumber": null,
       "url": "https://www.iherb.com/pr/purito-timeless-bloom-retinol-spot-cream-1-01-fl-oz-30-ml/143441",
       "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pit/PIT10306/r/30.jpg",
-      "brandCode": "PIT",
-      "brandName": "Purito",
-      "primaryImageIndex": 30,
-      "rating": 0,
-      "ratingCount": 0,
-      "ratingUrl": "https://www.iherb.com/pr/purito-timeless-bloom-retinol-spot-cream-1-01-fl-oz-30-ml/143441#product-reviews",
-      "reviewUrl": "https://www.iherb.com/r/purito-timeless-bloom-retinol-spot-cream-1-01-fl-oz-30-ml/143441",
-      "listPrice": "$22.00",
-      "discountedPrice": "$19.80"
+      "listPrice": "$22.00"
+    },
+    {
+      "id": 6,
+      "name": "Seeds of Change, Organic Jasmine Rice, 8.5 oz (240 g)",
+      "url": "https://www.iherb.com/pr/seeds-of-change-organic-jasmine-rice-8-5-oz-240-g/143881",
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/soc/SOC42055/r/3.jpg",
+      "listPrice": "$4.51"
+    },
+    {
+      "id": 7,
+      "name": "Nature's Craft, Liver Support with Milk Thistle, 60 Capsules",
+      "url": "https://www.iherb.com/pr/nature-s-craft-liver-support-with-milk-thistle-60-capsules/143561",
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/NCA93260/r/8.jpg",
+      "listPrice": "$22.77"
+    },
+    {
+      "id": 8,
+      "name": "Cetaphil, Gentle Exfoliating SA Lotion, 8 fl oz (237 ml)",
+      "url": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-lotion-8-fl-oz-237-ml/143848",
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/CET53015/r/8.jpg",
+      "listPrice": "$12.25"
+    },
+    {
+      "id": 9,
+      "name": "Cetaphil, Gentle Exfoliating SA Cleanser, 8 fl oz (237 ml)",
+      "url": "https://www.iherb.com/pr/cetaphil-gentle-exfoliating-sa-cleanser-8-fl-oz-237-ml/143849",
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/CET53016/r/8.jpg",
+      "listPrice": "$11.12"
+    },
+    {
+      "id": 10,
+      "name": "Purito, Timeless Bloom Retinol Spot Cream, 1.01 fl oz (30 ml)",
+      "url": "https://www.iherb.com/pr/purito-timeless-bloom-retinol-spot-cream-1-01-fl-oz-30-ml/143441",
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pit/PIT10306/r/30.jpg",
+      "listPrice": "$22.00"
     }
   ]
 }
